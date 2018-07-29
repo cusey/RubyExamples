@@ -37,3 +37,44 @@ PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics3.rb
 CASE
 Enter Greeting : french
 Bonjour
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics4.rb
+TERNARY OPERATOR
+Old
+LOOP
+[x: 2][ x % 2 : 0]
+2
+[x: 3][ x % 2 : 1]
+[x: 4][ x % 2 : 0]
+4
+[x: 5][ x % 2 : 1]
+[x: 6][ x % 2 : 0]
+6
+WHILE LOOP --1--
+2
+4
+6
+WHILE LOOP --2--
+2
+4
+6
+UNTIL LOOP
+2
+4
+6
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics5.rb
+FOR LOOPS
+1,
+2,
+3,
+4,
+5,
+Get some bananas
+Get some sweet potatoes
+Get some pasta
+Get some tomatoes
+# 0
+# 1
+# 2
+# 3
+# 4
+# 5
