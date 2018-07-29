@@ -6,7 +6,8 @@
 # Ruby is one of the easiest languages to read and with Rails it may be
 # the best web development option period
 
-# ******* Input, Output *******
+# --------------- INPUT AND OUTPUT ---------------
+print "INPUT AND OUTPUT \n"
 print "Adding Two Numbers Together \n"
 # print prints the string to screen without a newline
 print "Enter a Value: "
@@ -23,7 +24,9 @@ second_num = gets.to_i
 # string, you can combine values using +
 puts first_num.to_s + " + " + second_num.to_s + " = " + (first_num + second_num).to_s
 
-# *******  Arithmetic Operators ******* 
+# ---------------  ARITHMETIC OPERATORS ---------------
+print "ARITHMETIC OPERATORS \n"
+
 puts "6 + 4 = " + (6+4).to_s
 puts "6 - 4 = " + (6-4).to_s
 puts "6 * 4 = " + (6*4).to_s
@@ -45,14 +48,15 @@ puts numOne.to_s + " - " + num99.to_s + " = " + (numOne - num99).to_s
 big_float = 1.12345678901234
 puts (big_float + 0.00000000000005).to_s
  
-# *******  Data Types ******* 
+# ---------------  DATA TYPES --------------- 
+print "DATA TYPES \n"
 # Everything is an object ( showing to data type)
 puts 1.class
 puts 1.234.class
 puts "A String".class
  
-# *******  Constants ******* 
-
+# ---------------  CONSTANTS --------------- 
+print "CONSTANTS \n"
 # A Constant starts with an uppercase letter and if you try to change the
 # value you will be warned
  
@@ -60,8 +64,8 @@ A_CONSTANT = 3.14
 A_CONSTANT = 1.6
 puts A_CONSTANT
 
-# *******  File I/O ******* 
-
+# ---------------  FILE I/O --------------- 
+print "FILE I/O \n"
 # Returns a File object for writing
 write_handler = File.new("yourSum.out", "w")
  

@@ -1,0 +1,39 @@
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics1.rb
+INPUT AND OUTPUT
+Adding Two Numbers Together
+Enter a Value: 4
+Enter Another Value: 6
+4 + 6 = 10
+ARITHMETIC OPERATORS
+6 + 4 = 10
+6 - 4 = 2
+6 * 4 = 24
+6 / 4 = 1
+6 % 4 = 2
+1.0 - 0.999 = 0.0010000000000000009
+1.1234567890123899
+DATA TYPES
+Fixnum
+Float
+String
+CONSTANTS
+RubyBasics1.rb:64: warning: already initialized constant A_CONSTANT
+RubyBasics1.rb:63: warning: previous definition of A_CONSTANT was here
+1.6
+FILE I/O
+Data From File : Random Text
+Hello From rubyOrNotRuby2.rb
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics2.rb
+IF ELSE ELSIF
+You're in Middle School
+Yeah
+true && false = false
+true && false = true
+!true = false
+5 <=> 10 = -1
+Go to School
+You're Young
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics3.rb
+CASE
+Enter Greeting : french
+Bonjour
