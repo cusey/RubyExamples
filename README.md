@@ -7,5 +7,5 @@ Date: July 26, 2018
 Description : Just basic tutorial on Ruby coding language.     
 
 Files:  
-RubyBasics1.rb : Data Types, Input, Output, Constants, File I/O  
+RubyBasics1.rb : Input and Output, Arithmetic Operators, Data Types, Constants, File I/O  
 
