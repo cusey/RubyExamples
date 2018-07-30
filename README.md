@@ -15,5 +15,7 @@ RubyBasics5.rb : FOR LOOPS
 RubyBasics6.rb : FUNCTIONS  
 RubyBasics7.rb : EXCEPTIONS (Zero Division Error)  
 RubyBasics8.rb : EXCEPTIONS (Throw Exceptions)
+RubyBasics9.rb : STRINGS
+RubyBasics10.rb : CLASSES, OBJECTS, INHERITANCE
 
 
