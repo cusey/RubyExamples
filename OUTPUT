@@ -78,3 +78,66 @@ Get some tomatoes
 # 3
 # 4
 # 5
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasic6.rb
+7
+x = 1
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasic7.rb
+Enter a number : 1
+Enter Another : 0
+You can't divide by zero
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics8.rb
+That is an impossible age
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics9.rb
+Add Them 9
+
+Add Them #{4 + 5} \n\n
+This is a very long string
+that contains interpolation
+like 9
+
+
+Derek Justin Banas
+true
+18
+Vowels : 6
+Consonants : 12
+false
+Index : 13
+a == a : true
+"a".equal?("a") : false
+true
+DEREK JUSTIN BANAS
+derek justin banas
+dEREK jUSTIN bANAS
+Derek Justin Banas
+..Derek Justin Banas
+Derek Justin Banas..
+.Derek Justin Banas.
+Derek Justin Bana
+Derek Justin Banas
+Derek Justin Ban
+Derek Justin Bns
+D
+e
+r
+e
+k
+
+J
+u
+s
+t
+i
+n
+
+B
+a
+n
+a
+s
+Derek
+Justin
+Banas
+0
+2.0
+2
