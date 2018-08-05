@@ -1,5 +1,5 @@
 # --------------- POLYMORPHISM ---------------
-print"POLYMORPHISM"
+print"--------------- POLYMORPHISM --------------- \n"
  
 class Bird
     def tweet(bird_type)

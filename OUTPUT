@@ -162,3 +162,7 @@ PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics12.rb
 Albert
 Albert runs
 Albert says (Smart) E = mc²
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics13.rb
+--------------- POLYMORPHISM ---------------
+Tweet tweet
+Squawk
