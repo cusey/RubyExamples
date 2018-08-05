@@ -7,7 +7,7 @@
 # the best web development option period
 
 # --------------- INPUT AND OUTPUT ---------------
-print "INPUT AND OUTPUT \n"
+print "--------------- INPUT AND OUTPUT --------------- \n"
 print "Adding Two Numbers Together \n"
 # print prints the string to screen without a newline
 print "Enter a Value: "
@@ -25,7 +25,7 @@ second_num = gets.to_i
 puts first_num.to_s + " + " + second_num.to_s + " = " + (first_num + second_num).to_s
 
 # ---------------  ARITHMETIC OPERATORS ---------------
-print "ARITHMETIC OPERATORS \n"
+print "--------------- ARITHMETIC OPERATORS --------------- \n"
 
 puts "6 + 4 = " + (6+4).to_s
 puts "6 - 4 = " + (6-4).to_s
@@ -49,14 +49,14 @@ big_float = 1.12345678901234
 puts (big_float + 0.00000000000005).to_s
  
 # ---------------  DATA TYPES --------------- 
-print "DATA TYPES \n"
+print "--------------- DATA TYPES --------------- \n"
 # Everything is an object ( showing to data type)
 puts 1.class
 puts 1.234.class
 puts "A String".class
  
 # ---------------  CONSTANTS --------------- 
-print "CONSTANTS \n"
+print "--------------- CONSTANTS--------------- \n"
 # A Constant starts with an uppercase letter and if you try to change the
 # value you will be warned
  
@@ -65,7 +65,7 @@ A_CONSTANT = 1.6
 puts A_CONSTANT
 
 # ---------------  FILE I/O --------------- 
-print "FILE I/O \n"
+print "--------------- FILE I/O --------------- \n"
 # Returns a File object for writing
 write_handler = File.new("yourSum.out", "w")
  

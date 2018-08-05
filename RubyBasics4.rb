@@ -1,5 +1,5 @@
 # --------------- TERNARY OPERATOR ---------------
-print "TERNARY OPERATOR \n"
+print "--------------- TERNARY OPERATOR --------------- \n"
 age = 50
 
 # Format (condition) ? "Returned if true" : "Returned if false"
@@ -7,7 +7,7 @@ age = 50
 puts (age >= 50) ? "Old" : "Young"
 
 # --------------- LOOP ---------------
-print "LOOP \n"
+print "--------------- LOOP --------------- \n"
 x = 1
 
 # Loops until you break out of loop
@@ -26,7 +26,7 @@ end
 
 # --------------- WHILE LOOP ---------------
 # Do stuff while the condition is met
-print "WHILE LOOP --1-- \n"
+print "--------------- WHILE LOOP --1-- --------------- \n"
 y = 1
 
 while y <= 6
@@ -38,7 +38,7 @@ end
 
 z = 1
 
-print "WHILE LOOP --2-- \n"
+print "WHILE LOOP --------------- --2-- --------------- \n"
 
 begin
   z += 1
@@ -49,7 +49,7 @@ end while z <= 6
 
 # --------------- UNTIL LOOP ---------------
 # Do stuff until a condition is met
-print "UNTIL LOOP \n"
+print --------------- "UNTIL LOOP --------------- \n"
 
 a = 1
 

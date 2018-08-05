@@ -1,5 +1,5 @@
 # --------------- IF ELSE ELSIF ---------------
-print "IF ELSE ELSIF \n"
+print --------------- "IF ELSE ELSIF --------------- \n"
 
 age = 12
 

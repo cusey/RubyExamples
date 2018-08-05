@@ -1,5 +1,5 @@
  # --------------- EXCEPTIONS (Throw Exceptions) ---------------
-   
+ print"--------------- EXCEPTIONS (Throw Exceptions) --------------- \n"  
  # You can throw your own exceptions with raise
    
  def check_age(age)

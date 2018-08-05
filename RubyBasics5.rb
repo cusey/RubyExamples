@@ -1,5 +1,5 @@
 # --------------- FOR LOOPS ---------------
-print "FOR LOOPS \n"
+print "--------------- FOR LOOPS --------------- \n"
 
 # Create an array of numbers
 

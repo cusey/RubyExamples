@@ -1,5 +1,5 @@
 # --------------- CASE ---------------
-print "CASE \n"
+print "--------------- CASE --------------- \n"
 
 print "Enter Greeting : "
 

@@ -1,5 +1,5 @@
   # --------------- EXCEPTIONS (Zero Division Error) ---------------
-   
+  print"--------------- EXCEPTIONS (Zero Division Error) ---------------  \n"
   # We catch exceptions with begin and rescue
    
   print "Enter a number : "

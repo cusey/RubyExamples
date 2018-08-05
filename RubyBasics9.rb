@@ -1,4 +1,5 @@
 # --------------- STRINGS ---------------
+print"--------------- STRINGS --------------- \n"
  
 # Strings are a series of characters between " or '
 # String interpolation doesn't work with '' and neither do backslash

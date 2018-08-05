@@ -2,6 +2,7 @@
 # Every object has attributes (instance variables) and capabilities (methods)
 
 # --------------- CLASSES, OBJECTS, INHERITANCE --------------- 
+print"--------------- CLASSES, OBJECTS, INHERITANCE --------------- \n"
  
 class Animal
  
