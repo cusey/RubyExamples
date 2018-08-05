@@ -11,9 +11,11 @@ RubyBasics1.rb : INPUT AND OUTPUT, ARITHMETIC OPERATORS, DATA TYPES, CONSTANTS, 
 RubyBasics2.rb : IF ELSE ELSIF  
 RubyBasics3.rb : CASE  
 RubyBasics4.rb : TERNARY OPERATOR, LOOP, WHILE LOOP, UNTIL LOOP  
-RubyBasics5.rb : FOR LOOPS 
+RubyBasics5.rb : FOR LOOPS    
 RubyBasics6.rb : FUNCTIONS  
-RubyBasics7.rb : EXCEPTIONS (Zero Division Error)  
-RubyBasics8.rb : EXCEPTIONS (Throw Exceptions)
+RubyBasics7.rb : EXCEPTIONS (Zero Division Error)    
+RubyBasics8.rb : EXCEPTIONS (Throw Exceptions)  
+RubyBasics9.rb : STRINGS  
+RubyBasics10.rb : CLASSES, OBJECTS, INHERITANCE  
 
 
