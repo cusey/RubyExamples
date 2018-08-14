@@ -17,5 +17,10 @@ RubyBasics7.rb : EXCEPTIONS (Zero Division Error)
 RubyBasics8.rb : EXCEPTIONS (Throw Exceptions)  
 RubyBasics9.rb : STRINGS  
 RubyBasics10.rb : CLASSES, OBJECTS, INHERITANCE  
+RubyBasics11.rb : MODULE (used to add functionality to a class)
+RubyBasics12.rb : MODULE (Allows you access to other files) 
+RubyBasics13.rb : POLYMORPHISM
+RubyBasics14.rb : SYMBOLS
+RubyBasics15.rb : ARRAYS
 
 
