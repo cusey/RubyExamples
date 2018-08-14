@@ -210,3 +210,40 @@ two
 10
 20
 30
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics16.rb
+--------------- HASHS ---------------
+3.14
+Superman
+Flash
+No Such Key
+Clark Kent : Superman
+Bruce Wayne : Batman
+Barry Allen : Flash
+Lisa Morel : Aquagirl
+Betty Kane : Batgirl
+Has Key Lisa Morel : true
+Has Value Batman : true
+Is Hash Empty : false
+Size of Hash : 5
+Size of Hash : 4
+PS C:\Users\john_\OneDrive\Documents\GitHub\RubyExamples> ruby RubyBasics17.rb
+--------------- ENUMERABLE ---------------
+Would you like : pizza
+Would you like : spaghetti
+Would you like : salad
+Would you like : bread
+Would you like : water
+"pizza"
+["pizza", "salad", "bread", "water"]
+["spaghetti"]
+"pizza"
+["pizza", "spaghetti"]
+["salad", "bread", "water"]
+"bread"
+"water"
+["bread", "pizza", "salad", "spaghetti", "water"]
+water
+bread
+salad
+spaghetti
+pizza
