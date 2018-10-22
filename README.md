@@ -1,4 +1,4 @@
-# Files
+# Files  
 RubyBasics1.rb : INPUT AND OUTPUT, ARITHMETIC OPERATORS, DATA TYPES, CONSTANTS, FILE I/O  
 RubyBasics2.rb : IF ELSE ELSIF  
 RubyBasics3.rb : CASE  
@@ -17,5 +17,5 @@ RubyBasics15.rb : ARRAYS
 RubyBasics16.rb : HASHS  
 RubyBasics17.rb : ENUMERABLE  
 
-# Refeneces
+# Reference  
 [Ruby Version Manager (RVM)](https://rvm.io/)
