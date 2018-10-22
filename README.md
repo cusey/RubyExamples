@@ -1,3 +1,7 @@
+# RubyExamples   
+![Ruby](https://github.com/cusey/ImageForWiki/blob/master/Logos/Ruby.PNG)   
+
+
 # Files  
 RubyBasics1.rb : INPUT AND OUTPUT, ARITHMETIC OPERATORS, DATA TYPES, CONSTANTS, FILE I/O  
 RubyBasics2.rb : IF ELSE ELSIF  
