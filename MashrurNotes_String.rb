@@ -41,7 +41,11 @@ puts "--------------- STRINGS Methods --------------- "
 
 
 =begin
---------------- STRINGS ---------------StringIntegerFalseClassfalse
+--------------- STRINGS ---------------
+String
+Integer
+FalseClass
+false
 true
 false
 John
@@ -55,7 +59,15 @@ include?
 *
 +
 count
-partitionto_csumnextcasecmpcasecmp?insertbytesizematch
+partition
+to_c
+sum
+next
+casecmp
+casecmp?
+insert
+bytesize
+match
 match?
 succ!
 <=>
