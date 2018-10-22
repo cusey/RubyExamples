@@ -17,5 +17,8 @@ RubyBasics15.rb : ARRAYS
 RubyBasics16.rb : HASHS  
 RubyBasics17.rb : ENUMERABLE  
 
+# codeanywhere and cloud9
+1.6 Get familiar with online IDE
+
 # Reference  
 [Ruby Version Manager (RVM)](https://rvm.io/)
