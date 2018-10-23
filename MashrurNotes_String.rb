@@ -1,6 +1,4 @@
-print"--------------- STRINGS --------------- \n"
-
-# Determining Type
+print"-- Determining Type -- \n"
 
 puts "".class
 
@@ -8,13 +6,13 @@ puts 1.class
 
 puts false.class 
 
-# Using the nil method
+print"-- Using the nil method -- \n"
 
 puts "".nil?
 puts nil.nil?
 puts false.nil?
 
-# Variables do not point to variables
+print"-- Variables do not point to variables -- \n"
 
 first_name = "John"
 second_name = first_name
@@ -25,11 +23,11 @@ first_name = "Tim"
 
 puts first_name
 
-# Escape Character
+print"-- Escape Character -- \n"
 
 puts ' Hey Chris, John said \'How are your doing? \' ' 
 
-# Find all methods
+print"-- Find all methods -- \n"
 
 print"\n"
 puts "--------------- STRINGS Methods --------------- "
@@ -41,23 +39,29 @@ puts "--------------- STRINGS Methods --------------- "
 
 
 =begin
---------------- STRINGS ---------------
+-- Determining Type -- 
 String
 Integer
 FalseClass
+-- Using the nil method -- 
 false
 true
 false
+-- Variables do not point to variables -- 
 John
 Tim
- Hey Chris, John said 'How are your doing? '
+-- Escape Character -- 
+ Hey Chris, John said 'How are your doing? ' 
+-- Find all methods -- 
 
---------------- STRINGS Methods ---------------
-encode
+--------------- STRINGS Methods --------------- 
+encode!
 include?
 %
 *
 +
+shellescape
+shellsplit
 count
 partition
 to_c
@@ -177,10 +181,13 @@ unicode_normalized?
 to_r
 force_encoding
 each_char
+encode
 unicode_normalize
-encode!
 unpack
 unpack1
+to_json_raw
+to_json_raw_object
+to_json
 <=
 >=
 between?
@@ -195,6 +202,7 @@ kind_of?
 is_a?
 tap
 instance_variable_get
+public_methods
 instance_variables
 method
 public_method
@@ -218,22 +226,23 @@ dup
 itself
 yield_self
 taint
-tainted?
-untrust
 untaint
-trust
+tainted?
 untrusted?
-methods
+untrust
 frozen?
-protected_methods
+trust
 singleton_methods
-public_methods
+methods
 private_methods
+protected_methods
 !
 equal?
 instance_eval
 instance_exec
 !=
-__send__
 __id__
+__send__
+
+--------------- STRINGS Methods ---------------
 =end
