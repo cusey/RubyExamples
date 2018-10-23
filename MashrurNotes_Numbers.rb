@@ -1,16 +1,16 @@
-# Converting to float
+print "-- Converting to float -- \n"
 puts 2.to_f
 
-# Check if it is odd number
+print "-- Check if it is odd number -- \n"
 puts 23.odd?
 
-# Check if it is even number
+print "-- Check if it is even number -- \n"
 puts 23.even?
 
-# Generating random number between 0 and 10
+print "-- Generating random number between 0 and 10 -- \n"
 puts rand(10)
 
-# Converting between integer and string
+print "-- Converting between integer and string -- \n"
 
 x = "5"
 
@@ -20,6 +20,26 @@ x = x.to_i
 
 puts x * 50
 
-# Repeat Hi 5 times
+print "-- Repeat Hi 5 times -- \n"
 
 5.times{ puts "Hi" }
+
+=begin
+-- Converting to float -- 
+2.0
+-- Check if it is odd number -- 
+true
+-- Check if it is even number -- 
+false
+-- Generating random number between 0 and 10 -- 
+8
+-- Converting between integer and string -- 
+55555555555555555555555555555555555555555555555555
+250
+-- Repeat Hi 5 times -- 
+Hi
+Hi
+Hi
+Hi
+Hi
+=end
