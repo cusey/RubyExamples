@@ -19,3 +19,7 @@ puts x * 50
 x = x.to_i
 
 puts x * 50
+
+# Repeat Hi 5 times
+
+5.times{ puts "Hi" }
