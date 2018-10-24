@@ -1,3 +1,5 @@
+```
+
 Welcome to Ubuntu 16.04 LTS (GNU/Linux 2.6.32-042stab112.15 x86_64)
 
  * Documentation:  https://help.ubuntu.com/
@@ -37,3 +39,5 @@ cabox@Ruby-on-Rails:~/workspace$ ruby -v
 
 Successfully installed rails-4.2.5
 31 gems installed
+
+```   
