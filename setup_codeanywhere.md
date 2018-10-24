@@ -51,3 +51,15 @@ cabox@Ruby-on-Rails:~/workspace$ rvm list
 #  * - default
 
 ```   
+
+## Checking the Ruby version  
+
+```
+cabox@Ruby-on-Rails:~/workspace$ ruby -v
+
+Successfully installed rails-4.2.5
+31 gems installed
+
+```
+
+
