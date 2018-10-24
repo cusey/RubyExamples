@@ -1,5 +1,5 @@
 
-# How to change the ruby version on the Ubunta image on codeanywhere website   
+# How to change the ruby version on the codeanywhere Ubunta image
 
 ## Version Numbers  
 ```
