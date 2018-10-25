@@ -1,5 +1,5 @@
 # RubyExamples   
-![Ruby](https://github.com/cusey/ImageForWiki/blob/master/Logos/Ruby.PNG)   
+![Ruby](https://github.com/cusey/ImageForWiki/blob/master/Logos/RubySmall.PNG)   
 
 
 # Files  
