@@ -9,8 +9,7 @@ alt="Ruby"
 height="50px"/>  
 
 ## Built With
-* Angular 6
-* Node
+* Ruby
 * Microsoft Visual Studio Code     
 
 ## Authors
