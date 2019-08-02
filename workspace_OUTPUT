@@ -2,7 +2,12 @@
 {2}
 {3}
 ----------
+ Using symbols in hash
 john
+ Using string in hash
+Nesting Symbols
 male
 cow
+----------
+First Name: John
 ----------
